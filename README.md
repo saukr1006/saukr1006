@@ -70,8 +70,6 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
-<br/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saukr1006.saukr1006" />
