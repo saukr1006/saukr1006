@@ -69,7 +69,7 @@
 </tr>
 </table>
 
-<img align="left" height="150px" width="150px" src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
+<img align="left" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saukr1006.saukr1006" />
