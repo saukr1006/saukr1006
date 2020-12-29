@@ -73,15 +73,6 @@
 <br/>
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
-<br />
-<br />
-<br />
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=saukr1006.saukr1006" />
-<br/>
-
-
-
-
 <!--
 **saukr1006/saukr1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
