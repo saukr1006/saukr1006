@@ -69,8 +69,6 @@
 </tr>
 </table>
 
-
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
 <br/>
 <br/>
