@@ -69,7 +69,7 @@
 </tr>
 </table>
 
-<img align="left" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
 <br/>
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
