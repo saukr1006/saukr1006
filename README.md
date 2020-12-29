@@ -77,8 +77,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saukr1006.saukr1006" />
-<br />
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
 
 
