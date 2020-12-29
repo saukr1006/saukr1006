@@ -7,7 +7,7 @@
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
 - ✨ I pick C++ for competitive programming.
 - 🎓 I prefer ReactJS (Javascript) framework for frontend and Node.js for backend part.
-- ⚡ Fun fact: I love watching web series and playing pc games
+- ⚡ I love watching web series and playing pc games
 
 <br />
 
