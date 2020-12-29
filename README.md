@@ -1,7 +1,6 @@
 
 <img align="right" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  height="260px" width="340px"/>
-
-## Hi 👋 There , I am Saurabh Kumar
+### Hi 👋 There , I am Saurabh Kumar
 
 ### I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
@@ -44,10 +43,10 @@
 <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="22px" /></td>
 
 
-<td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="22px" /></td>
+<td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="22px" /></td>
 
 
-<td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="22px" /></td>
+<td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="22px" /></td>
 
 
 <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="22px" /></td>
