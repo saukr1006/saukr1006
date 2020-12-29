@@ -1,6 +1,6 @@
 
 <img align="right" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  height="260px" width="340px"/>
-## Hi 👋 There , I am Saurabh Kumar
+### Hi 👋 There , I am Saurabh Kumar
 
 ### I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
