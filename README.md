@@ -1,31 +1,29 @@
-### Hi there 👋
 
 <img align="right" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  height="260px" width="340px"/>
-
-## Kon'nichiwa (Hi) 👋 There , I am Milind Pandey
+## Hi 👋 There , I am Saurabh Kumar
 
 ### I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
-- ✨ I pick Java for competitive programming.
-- 🎓 I prefer ReactJS (Javascript) framework for frontend and django for backend part.
-- ⚡ Fun fact: I love watching Anime
+- ✨ I pick C++ for competitive programming.
+- 🎓 I prefer ReactJS (Javascript) framework for frontend and Node.js for backend part.
+- ⚡ Fun fact: I love watching web series and playing pc games
 
 <br />
 
 ### Connect with me :
 
  [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102381927-d5b3dc00-3fef-11eb-892d-e65f16d9d199.png" />](https://www.linkedin.com/in/milind-pandey-b1a683183/)
+ src="https://user-images.githubusercontent.com/47604864/102381927-d5b3dc00-3fef-11eb-892d-e65f16d9d199.png" />](https://www.linkedin.com/in/saurabh-kumar-6b24263b/)
 
 [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnchQklRXclRpxCHFsWnWPGZBMnPqmNBLDLBKjWGWrpQpnmpntXjXqMtcngtDCLLNdGSL)
+ src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvNQnkGMtRVgXgWhTQfznttBHBZjclGpbjRmfncSqJSjzPTDNhDppXNqlSzRnTSpPLcCg)
  
  
  [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102374897-dd6f8280-3fe7-11eb-8476-b315e5044df1.png" />](https://www.instagram.com/l.ryuzaki_27/)
+ src="https://user-images.githubusercontent.com/47604864/102374897-dd6f8280-3fe7-11eb-8476-b315e5044df1.png" />](https://www.instagram.com/saurabh_1006/)
  
  [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102375725-d8f79980-3fe8-11eb-82e0-ee54caa50d9f.png"  />](https://twitter.com/Captain_Levi27)    
+ src="https://user-images.githubusercontent.com/47604864/102375725-d8f79980-3fe8-11eb-82e0-ee54caa50d9f.png"  />](https://twitter.com/Saurabh_1005)    
 
 <br />
 <br />
