@@ -72,7 +72,7 @@
 <img align="left" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=saukr1006&show_icons=true&theme=radical&count_private=true" />
 <br/>
 <br/>
-<img align="center" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukr1006&layout=compact" />
 <!--
 **saukr1006/saukr1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
