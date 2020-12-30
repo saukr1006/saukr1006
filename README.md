@@ -4,7 +4,7 @@
 ## Hi 👋 There , I am Saurabh Kumar
 
 ### I am a Full-Stack Developer
-- 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
+- 🎓 I am third year student at IIITV pursuing Computer Science and Engineering.
 - ✨ I pick C++ for competitive programming.
 - 🎓 I prefer ReactJS (Javascript) framework for frontend and Node.js for backend part.
 - ⚡ I love watching web series and playing pc games
